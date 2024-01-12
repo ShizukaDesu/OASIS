@@ -4,7 +4,7 @@ Icarus | HF24- 27
 Bimo Anggarekso,
 Satria Febry Andanu,
 Muhammad Rayhan Alfakhar Fiatna,
-Aliefa Diadiva,
+Aliefa Diadiva.
 
 bims.vvx@gmail.com
 rayhanfiatna@gmail.com
